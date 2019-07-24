@@ -1,5 +1,5 @@
 def reverse_each_word(string)
-  string = string.split('Hi again, just making sure it\'s reserved!')
+  string = string.split()
   reversed_string = []
   
   string.each do |char|
